@@ -98,3 +98,11 @@ Documentation/
 Diagrams/
 Data/
 Screenshots/
+
+## Author
+
+**Yasuri Tashmika**
+
+Bachelor of Business Management (Honours) in Accounting Information Systems
+
+University of Kelaniya
